@@ -61,8 +61,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
----
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+--- 
+All Thanks to [Data with Baraa](https://www.youtube.com/@DataWithBaraa).
